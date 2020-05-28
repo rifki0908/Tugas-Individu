@@ -1,0 +1,11 @@
+C:\Users\EGA\source\repos\Kalkulator1\Kalkulator1\bin\Debug\Kalkulator1.exe.config
+C:\Users\EGA\source\repos\Kalkulator1\Kalkulator1\bin\Debug\Kalkulator1.exe
+C:\Users\EGA\source\repos\Kalkulator1\Kalkulator1\bin\Debug\Kalkulator1.pdb
+C:\Users\EGA\source\repos\Kalkulator1\Kalkulator1\bin\Debug\Kalkulator1.xml
+C:\Users\EGA\source\repos\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.vbprojAssemblyReference.cache
+C:\Users\EGA\source\repos\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.Form1.resources
+C:\Users\EGA\source\repos\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.Resources.resources
+C:\Users\EGA\source\repos\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.vbproj.GenerateResource.cache
+C:\Users\EGA\source\repos\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.exe
+C:\Users\EGA\source\repos\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.xml
+C:\Users\EGA\source\repos\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.pdb

@@ -1,0 +1,9 @@
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\FormEkspedisinya\FormEkspedisinya\bin\Debug\FormEkspedisinya.exe.config
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\FormEkspedisinya\FormEkspedisinya\bin\Debug\FormEkspedisinya.exe
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\FormEkspedisinya\FormEkspedisinya\bin\Debug\FormEkspedisinya.pdb
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\FormEkspedisinya\FormEkspedisinya\obj\Debug\FormEkspedisinya.csprojAssemblyReference.cache
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\FormEkspedisinya\FormEkspedisinya\obj\Debug\FormEkspedisinya.Form1.resources
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\FormEkspedisinya\FormEkspedisinya\obj\Debug\FormEkspedisinya.Properties.Resources.resources
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\FormEkspedisinya\FormEkspedisinya\obj\Debug\FormEkspedisinya.csproj.GenerateResource.cache
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\FormEkspedisinya\FormEkspedisinya\obj\Debug\FormEkspedisinya.exe
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\FormEkspedisinya\FormEkspedisinya\obj\Debug\FormEkspedisinya.pdb
